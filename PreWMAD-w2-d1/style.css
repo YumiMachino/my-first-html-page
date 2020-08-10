@@ -1,6 +1,9 @@
-body {
+.img {
   background-image: url("https://media.tacdn.com/media/attractions-splice-spp-674x446/07/02/a9/16.jpg");
   background-repeat: repeat;
+  width: 100%;
+  height: auto;
+  margin: auto;
 }
 h1,
 h3 {
@@ -18,4 +21,11 @@ th {
   border-style: dashed;
   border-radius: 3px;
   color: #a3cbf0;
+  padding: 2px;
+  margin: 3px;
+}
+.closure {
+  background-image: url("https://images.rove.me/w_740,q_85/cozb6cjyfr6e3zct2p3s/vancouver-northern-lights.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
