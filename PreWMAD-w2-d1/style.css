@@ -1,0 +1,21 @@
+body {
+  background-image: url("https://media.tacdn.com/media/attractions-splice-spp-674x446/07/02/a9/16.jpg");
+  background-repeat: repeat;
+}
+h1,
+h3 {
+  color: white;
+}
+p {
+  color: #a3cbf0;
+}
+.Hobby {
+  border-color: #a3cbf0;
+}
+table td,
+th {
+  border: 2px solid rgb(47, 120, 255);
+  border-style: dashed;
+  border-radius: 3px;
+  color: #a3cbf0;
+}
