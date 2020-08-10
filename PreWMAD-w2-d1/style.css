@@ -1,31 +1,36 @@
-.img {
-  background-image: url("https://media.tacdn.com/media/attractions-splice-spp-674x446/07/02/a9/16.jpg");
-  background-repeat: repeat;
-  width: 100%;
-  height: auto;
+body {
+  background-image: url("https://www.tripsavvy.com/thmb/o19NAc55Z0N6DpWpnuhdTko-RsM=/2576x2576/smart/filters:no_upscale()/false-creek-in-vancouver-520447354-5ad8a8778023b900360aae96.jpg");
+  background-size: cover;
+  /* background-repeat: repeat; */
+  margin: 0 auto;
+  padding: 0;
+  background-color: rgba(255, 255, 255, 0.4);
+  background-blend-mode: lighten;
+}
+
+img {
+  display: block;
   margin: auto;
 }
+
 h1,
 h3 {
-  color: white;
+  color: black;
+  padding: 0;
+  margin: 0;
 }
 p {
-  color: #a3cbf0;
+  color: black;
 }
 .Hobby {
-  border-color: #a3cbf0;
+  border-color: black;
 }
 table td,
 th {
-  border: 2px solid rgb(47, 120, 255);
+  border: 2px solid black;
   border-style: dashed;
   border-radius: 3px;
-  color: #a3cbf0;
+  color: black;
   padding: 2px;
   margin: 3px;
-}
-.closure {
-  background-image: url("https://images.rove.me/w_740,q_85/cozb6cjyfr6e3zct2p3s/vancouver-northern-lights.jpg");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
 }
