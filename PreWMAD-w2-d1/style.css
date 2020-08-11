@@ -6,22 +6,20 @@ body {
   padding: 0;
   background-color: rgba(255, 255, 255, 0.4);
   background-blend-mode: lighten;
+  text-align: center;
+  font-family: Georgia, serif;
 }
 
 img {
   display: block;
   margin: auto;
+  padding: 100px;
 }
 
-h1 {
-  text-align: center;
-  font-family: Georgia, serif;
-}
-
-h1,
 h3 {
   color: black;
   font-size: 20px;
+  padding: 25px;
 }
 p {
   color: black;
@@ -30,6 +28,11 @@ p {
 .Hobby {
   border-color: black;
 }
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 table td,
 th {
   border: 2px solid black;
