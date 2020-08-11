@@ -15,6 +15,9 @@ img {
   margin: auto;
   padding: 100px;
 }
+h1 {
+  font-family: "Amatic SC", cursive;
+}
 
 h3 {
   color: black;
@@ -41,4 +44,7 @@ th {
   color: black;
   padding: 2px;
   margin: 3px;
+}
+ul {
+  list-style-position: inside;
 }
